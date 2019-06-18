@@ -1,2 +1,2 @@
 # thinkphp5-poc
-thinkphp4 RCE auto exploit
+thinkphp5 RCE auto exploit
