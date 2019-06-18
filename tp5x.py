@@ -1,3 +1,5 @@
+#ThinkPHP 5.x < v5.0.23,v5.1.31 Remote Code Execution
+#v5.x below v5.0.23,v5.1.31 shell BY-ZYA
 import requests
 import re
 import optparse
